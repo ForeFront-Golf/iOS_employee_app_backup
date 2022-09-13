@@ -21,7 +21,8 @@ static const bool kIsSimulator = false;
 
 ////////////////////// Server Constants //////////////////////
 //static NSString *const kServerURL = @"https://api.dev.foreorder.com";
-static NSString *const kServerURL = @"https://api.foreorder.com";
+//static NSString *const kServerURL = @"https://api.foreorder.com";
+static NSString *const kServerURL = @"http://18.143.85.82:8088/api";
 static NSString *const kAWSBucket = @"forefront-userfiles-mobilehub-1269340312";
 static NSString *const kAWSURL = @"https://s3.amazonaws.com";
 

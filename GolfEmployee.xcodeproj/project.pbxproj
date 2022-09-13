@@ -1196,7 +1196,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 				"${BUILT_PRODUCTS_DIR}/AWSCognito/AWSCognito.framework",
 				"${BUILT_PRODUCTS_DIR}/AWSCore/AWSCore.framework",
@@ -1219,7 +1219,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		62844AE0DC73E7EE6978DDF9 /* [CP] Copy Pods Resources */ = {
@@ -1228,7 +1228,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-resources.sh",
 				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
 			);
@@ -1239,7 +1239,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GolfEmployee/Pods-GolfEmployee-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A4B62B111E9F696600CFA5C2 /* ShellScript */ = {

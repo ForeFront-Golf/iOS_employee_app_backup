@@ -14,7 +14,7 @@
 {
     [super viewDidLoad];
     
-    _deleteDatabaseButton.hidden = !kIsSimulator;
+    //_deleteDatabaseButton.hidden = !kIsSimulator;
 }
 
 - (void)viewWillAppear:(BOOL)animated

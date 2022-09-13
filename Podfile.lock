@@ -57,7 +57,7 @@ DEPENDENCIES:
   - PKRevealController
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - AFNetworking
     - AWSCognito
     - AWSCore
@@ -80,8 +80,8 @@ SPEC CHECKSUMS:
   AWSS3: 653807428bfb6368dbe54fe1c7f0b81bffa5dba7
   AWSSNS: e0fe949fc25c6c2e6c9c691f15c58a8d24d8d4e7
   Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
-  Crashlytics: aee1a064cbbf99b32efa3f056a5f458d846bc8ff
-  Fabric: f8d42c893bb187326a7968b62abe55c36a987a46
+  Crashlytics: 0ea46c8966ec6c2eab61f5d1bb71d6461c33278f
+  Fabric: 0d4097606c34460a8ba5c7eb9dab75a467f0b30e
   GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
   GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
   OneSignal: ab5c509192ca8390bdd3570a6261e6decf4c79c1
@@ -89,4 +89,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 8fb00d0ce1d21cbe2287bdd300212fc169fdb487
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.11.3
